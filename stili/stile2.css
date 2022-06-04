@@ -47,7 +47,7 @@
 
   #panor {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
 
   h1 {
@@ -203,9 +203,9 @@ body {
         height: 50vw;
     }
 
-    img {
-
-    }
+     #panor {
+    justify-content: space-between;
+  }
 
     .c-arte {
       flex-direction: column;
